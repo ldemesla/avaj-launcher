@@ -10,4 +10,3 @@ Simple java program that simulates traffic in an airport according to a config f
 The first line of the configuration file contain a positive integer representing the number of times the simulation is run. Each following line represent an aircraft that will be part of the smulation, with this format:<br/>TYPE(Baloon, Jetplane, Helicopter) NAME LONGITUDE LATITUDE HEIGHT.
 
 ![uml](assets/uml_diagram.png)
-![config file](assets/config_file.png)
